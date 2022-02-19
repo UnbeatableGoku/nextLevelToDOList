@@ -3,7 +3,7 @@ const bodyParser = require("body-parser")
 const app = express();
 const mongoose = require("mongoose")
 const date = require(__dirname + "/date.js")
-
+require("dotenv/config")
 
 app.set("view engine", "ejs")
 
