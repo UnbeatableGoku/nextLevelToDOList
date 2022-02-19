@@ -1,4 +1,4 @@
 # nextLevelToDOList
 
-This toDoList is made with Node,Express,Mongodb and basic of frontend(css,html)!!!
+This toDoList is made with Node,Express,Mongodb,Ejs and basic of frontend(css)!!!
 
